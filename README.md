@@ -1,20 +1,10 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Paliwal+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Harshit Paliwal Welcome to my Profile! animated typed out">
+###
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Paliwal+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Harshit Paliwal Welcome to my Profile! animated typed out"> -->
 
 I am Harshit Paliwal, an AI-Driven Full Stack Developer heavily focused on backend engineering and scalable system architecture. Currently, I am deep-diving into DevOps, Cloud Infrastructure, and Kubernetes-based deployments.
 
 I am always looking for opportunities to collaborate on innovative backend and distributed system ideas.
 
----
-
-### Connect with me 🌐
-<div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
 
 ---
 
@@ -72,14 +62,6 @@ I am always looking for opportunities to collaborate on innovative backend and d
 ![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
