@@ -1,7 +1,7 @@
 ###
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Paliwal+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Harshit Paliwal Welcome to my Profile! animated typed out"> -->
 
-I am Harshit Paliwal, an AI-Driven Full Stack Developer heavily focused on backend engineering and scalable system architecture. Currently, I am deep-diving into DevOps, Cloud Infrastructure, and Kubernetes-based deployments.
+I am Harshit Paliwal, an AI-Driven Full Stack Developer heavily focused on backend engineering and scalable system architecture. Currently, I am deep-diving into DevOps, Cloud Infrastructure, and deployments.
 
 I am always looking for opportunities to collaborate on innovative backend and distributed system ideas.
 
