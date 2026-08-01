@@ -15,7 +15,6 @@ I am always looking for opportunities to collaborate on innovative backend and d
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/-Shell_Scripting-black?style=flat-square&logo=gnu-bash)
 
 ---
 
