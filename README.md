@@ -15,19 +15,16 @@ I am always looking for opportunities to collaborate on innovative backend and d
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Bash](https://img.shields.io/badge/-Shell_Scripting-black?style=flat-square&logo=gnu-bash)
 
 ---
 
 ### 🚀 Frameworks, Platforms & Libraries
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot4-6DB33F?style=flat-square&logo=springboot)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next JS](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-black?style=flat-square)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)
 
 ---
@@ -48,20 +45,6 @@ I am always looking for opportunities to collaborate on innovative backend and d
 ![IAM](https://img.shields.io/badge/-IAM-black?style=flat-square&logo=amazonaws)
 ![CloudWatch](https://img.shields.io/badge/-CloudWatch-black?style=flat-square&logo=amazonaws)
 
----
-
-### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
-![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
-![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat-square&logo=vagrant)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![GitOps](https://img.shields.io/badge/-GitOps-black?style=flat-square)
-![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions)
 
 ---
 
